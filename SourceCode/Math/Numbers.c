@@ -1,10 +1,11 @@
 #include<stdio.h>
 #include<math.h>
 
-//changes in master branch
 int sum(int x,int y)
 {
-  return (x+y);
+  int result =0;
+  result=x+y;
+  return result;
 }
 
 int mulitply(int x,int y)

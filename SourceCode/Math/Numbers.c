@@ -1,14 +1,17 @@
 #include<stdio.h>
 #include<math.h>
 
+//changes in master branch
 int sum(int x,int y)
 {
-  return x+y;
+  return (x+y);
 }
-//added to testing branch
+
 int mulitply(int x,int y)
 {
-  return x*y;
+  int result=0;
+	result=x*y;
+  return result;
 }
 
 int divide(int x,int y)

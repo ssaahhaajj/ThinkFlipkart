@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+// String module
+// in the bugFix branch
 void greetings(char hello[]){
 	printf("\n%s",hello);
 }

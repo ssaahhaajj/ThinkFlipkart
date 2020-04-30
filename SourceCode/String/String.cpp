@@ -7,6 +7,9 @@ void greetings(char hello[]){
 void toUpper(char str[]){
 	printf("Making string upper..");
 }
+void toLow	er(char str[]){
+	printf("Making string lower..");
+}
 
 int main()
 {

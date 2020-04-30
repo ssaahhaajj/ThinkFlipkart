@@ -10,6 +10,10 @@ void toUpper(char str[]){
 void toLower(char str[]){
 	printf("Making string lower..");
 }
+//Added in the master branch
+void toTitile(char str[]){
+	printf("Making string upper..");
+}
 
 int main()
 {

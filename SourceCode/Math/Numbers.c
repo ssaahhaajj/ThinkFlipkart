@@ -3,15 +3,12 @@
 
 int sum(int x,int y)
 {
-  int result =0;
-  result=x+y;
-  return result;
+  return x+y;
 }
 
 int mulitply(int x,int y)
 {
-  int result=0;
-	result=x*y;
+  int result=x*y;
   return result;
 }
 
@@ -22,7 +19,7 @@ int divide(int x,int y)
   return x/y;
 }
 
-int main()
+void main()
 {
 	printf("%d",sum(2,3));
 }

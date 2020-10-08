@@ -18,8 +18,11 @@ int divide(int x,int y)
 	return -1;
   return x/y;
 }
+int subtract(int x,int y){
+	return x-y;
+}
 
-void main()
+int main()
 {
 	printf("%d",sum(2,3));
 }

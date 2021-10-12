@@ -22,10 +22,6 @@ int divide(int x,int y)
   return x/y;
 }
 
-int subtract(int x, int y){
-    return x-y;
-}
-
 int main()
 {
 	printf("%d",sum(2,3));

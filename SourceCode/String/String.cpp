@@ -19,6 +19,10 @@ void toTitile(char str[]){
 	printf("Making string upper..");
 }
 
+void hello() {
+    printf("hello");
+}
+
 int main()
 {
 	char greet[]="Hello World";

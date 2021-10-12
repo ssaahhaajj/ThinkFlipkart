@@ -23,6 +23,10 @@ void hello() {
     printf("hello");
 }
 
+void bye() {
+    printf("bye..");
+}
+
 int main()
 {
 	char greet[]="Hello World";

@@ -26,6 +26,10 @@ int subtract(int x, int y){
     return x-y;
 }
 
+int nothing(int x){
+    return x;
+}
+
 int main()
 {
 	printf("%d",sum(2,3));
